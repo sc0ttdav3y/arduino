@@ -8,5 +8,5 @@ Control the speed of a cycling set of LEDs by turning a knob.
 
 ## ldr_light_meter
 
-Plug in an light-dependent resistor and a bunch of LEDs and measure your light level.
+Plug in a light-dependent resistor and a bunch of LEDs and measure your light level.
 
